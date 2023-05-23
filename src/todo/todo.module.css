@@ -1,0 +1,29 @@
+.todo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5%;
+}
+.input{
+    padding: 5px;
+    outline: none;
+}
+.btn{
+    padding: 5px;
+    cursor: pointer;
+}
+.btnDel{
+    padding: 10px;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    border: none;
+    margin-left: 25px;
+    border-radius: 5px 15px;
+    font-size: 20px;
+}
+.margin{
+    margin-top: 25px;
+    font-size: 20px;
+}
