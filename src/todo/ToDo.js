@@ -2,6 +2,7 @@ import {Component} from "react";
 import {Container, Row, Col, Button, FormControl} from "react-bootstrap";
 import idGen from '../helpers/idGen.js';
 import styles from './todo.module.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 class ToDo extends Component{
     state={
